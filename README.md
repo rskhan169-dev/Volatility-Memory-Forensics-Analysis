@@ -105,7 +105,7 @@ The process names and executable locations reviewed during the investigation did
 
 ### Evidence
 
-![Running Processes](screenshots/02-running-processes.png)
+![Running Processes](Screenshots/02-running-processes-1.png)
 
 ---
 
