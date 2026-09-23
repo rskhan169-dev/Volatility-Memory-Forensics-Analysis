@@ -80,7 +80,7 @@ The `windows.info` plugin was used to identify the operating system and memory-l
 
 ### Evidence
 
-![Memory Image Information](screenshots/01-memory-info.png)
+![Memory Information](Screenshots/01-memory-info.png)
 
 ---
 
