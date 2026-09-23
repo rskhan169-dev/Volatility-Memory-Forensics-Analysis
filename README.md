@@ -133,7 +133,7 @@ This parent-child relationship was consistent with legitimate Windows Remote Des
 
 ### Evidence
 
-![Process Tree](screenshots/04-process-tree.png)
+![Process Tree](Screenshots/04-process-tree-1.png)
 
 ---
 
@@ -161,7 +161,7 @@ The presence of RDP or SSH does not by itself indicate malicious activity. These
 
 ### Evidence
 
-![Network Connections](screenshots/03-network-connections.png)
+![Network Connections](Screenshots/03-network-connections.png)
 
 ---
 
@@ -192,7 +192,7 @@ No obviously suspicious DLL path was identified during this review.
 
 ### Evidence
 
-![Loaded DLLs](screenshots/05-loaded-dlls.png)
+![Loaded DLLs](Screenshots/05-loaded-dlls.png)
 
 ---
 
